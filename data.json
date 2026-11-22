@@ -1,13 +1,57 @@
 {
  "docs": {
+  "chapters/c01": {
+   "n": 1,
+   "title": "Aspects réglementaires en transfusion sanguine et guides de bonnes pratiques"
+  },
+  "chapters/c02": {
+   "n": 2,
+   "title": "Le don de sang"
+  },
+  "chapters/c03": {
+   "n": 3,
+   "title": "Produits sanguins : préparation, conservation et transport"
+  },
+  "chapters/c04": {
+   "n": 4,
+   "title": "Qualification biologique du don"
+  },
+  "chapters/c05": {
+   "n": 5,
+   "title": "Transfusion clinique"
+  },
+  "chapters/c06": {
+   "n": 6,
+   "title": "Gestion de stock"
+  },
+  "chapters/c07": {
+   "n": 7,
+   "title": "Aphérèses thérapeutiques"
+  },
+  "chapters/c08": {
+   "n": 8,
+   "title": "Greffe de MO / banques de tissus"
+  },
+  "chapters/c09": {
+   "n": 9,
+   "title": "Effets indésirables transfusionnels"
+  },
+  "chapters/c10": {
+   "n": 10,
+   "title": "Hémovigilance"
+  },
+  "chapters/c11": {
+   "n": 11,
+   "title": "Traçabilité et systèmes d'information en transfusion sanguine"
+  },
+  "chapters/c12": {
+   "n": 12,
+   "title": "Management de la qualité en transfusion sanguine"
+  },
   "meta/main": {
    "title": "CEC Hémobiologie et Transfusion Sanguine",
    "year": "2026-2027",
    "subtitle": "En moyenne un mercredi tous les 15 jours"
-  },
-  "chapters/c01": {
-   "n": 1,
-   "title": "Aspects réglementaires en transfusion sanguine et guides de bonnes pratiques"
   },
   "sessions/c01s01": {
    "chapter": "c01",
@@ -16,13 +60,17 @@
    "date": "2026-11-25",
    "min": 120,
    "teacher": "Dr Gargouri J",
-   "files": [],
+   "files": [
+    {
+     "id": "b2873e-Textes_reglementaires_en_TS.ppt",
+     "name": "Textes reglementaires en TS.ppt",
+     "size": 1539072,
+     "type": "application/vnd.ms-powerpoint"
+    }
+   ],
    "links": [],
-   "notes": ""
-  },
-  "chapters/c02": {
-   "n": 2,
-   "title": "Le don de sang"
+   "notes": "",
+   "rev": 0
   },
   "sessions/c02s01": {
    "chapter": "c02",
@@ -31,7 +79,14 @@
    "date": "2026-11-25",
    "min": 90,
    "teacher": "Dr Mezhani Narjes",
-   "files": [],
+   "files": [
+    {
+     "id": "ac6dda-Selection_Des_donneurs.pptx",
+     "name": "Selection Des donneurs.pptx",
+     "size": 2067455,
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    }
+   ],
    "links": [],
    "notes": ""
   },
@@ -40,9 +95,16 @@
    "order": 20,
    "title": "Le don de sang total (équipement, phlébotomie, don proprement dit et post-don)",
    "date": "2026-11-25",
-   "min": 60,
+   "min": 90,
    "teacher": "Dr Menif H",
-   "files": [],
+   "files": [
+    {
+     "id": "cebf86-don_de_sang_total.pptx",
+     "name": "don de sang total.pptx",
+     "size": 6857358,
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    }
+   ],
    "links": [],
    "notes": ""
   },
@@ -53,7 +115,14 @@
    "date": "2026-11-25",
    "min": 60,
    "teacher": "Dr Menif H",
-   "files": [],
+   "files": [
+    {
+     "id": "444a3e-les_aphereses_donneurs.pptx",
+     "name": "les aphérèses donneurs.pptx",
+     "size": 4963203,
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    }
+   ],
    "links": [],
    "notes": ""
   },
@@ -64,7 +133,14 @@
    "date": "2026-11-25",
    "min": 30,
    "teacher": "Dr Louati N",
-   "files": [],
+   "files": [
+    {
+     "id": "3dff81-TA_..pdf",
+     "name": "TA ..pdf",
+     "size": 1201048,
+     "type": "application/pdf"
+    }
+   ],
    "links": [],
    "notes": ""
   },
@@ -75,13 +151,16 @@
    "date": "2026-11-25",
    "min": 30,
    "teacher": "Dr Louati N",
-   "files": [],
+   "files": [
+    {
+     "id": "c38220-effets_indesirables_donneurs.pdf",
+     "name": "effets indésirables donneurs.pdf",
+     "size": 3036745,
+     "type": "application/pdf"
+    }
+   ],
    "links": [],
    "notes": ""
-  },
-  "chapters/c03": {
-   "n": 3,
-   "title": "Produits sanguins : préparation, conservation et transport"
   },
   "sessions/c03s01": {
    "chapter": "c03",
@@ -109,16 +188,12 @@
    "chapter": "c03",
    "order": 30,
    "title": "Bonnes pratiques de conservation et de transport des PSL / Procédures - réglementations",
-   "date": "",
+   "date": "2026-12-09",
    "min": 60,
    "teacher": "Dr Menif H",
    "files": [],
    "links": [],
    "notes": ""
-  },
-  "chapters/c04": {
-   "n": 4,
-   "title": "Qualification biologique du don"
   },
   "sessions/c04s01": {
    "chapter": "c04",
@@ -186,10 +261,6 @@
    "links": [],
    "notes": ""
   },
-  "chapters/c05": {
-   "n": 5,
-   "title": "Transfusion clinique"
-  },
   "sessions/c05s01": {
    "chapter": "c05",
    "order": 10,
@@ -216,7 +287,7 @@
    "chapter": "c05",
    "order": 30,
    "title": "Transfusion sanguine dans les LA",
-   "date": "",
+   "date": "2027-01-20",
    "min": 120,
    "teacher": "Dr Frikha I",
    "files": [],
@@ -227,7 +298,7 @@
    "chapter": "c05",
    "order": 40,
    "title": "Transfusion sanguine dans les hémoglobinopathies",
-   "date": "",
+   "date": "2027-01-20",
    "min": 120,
    "teacher": "Dr Maaloul I",
    "files": [],
@@ -344,10 +415,6 @@
    "links": [],
    "notes": ""
   },
-  "chapters/c06": {
-   "n": 6,
-   "title": "Gestion de stock"
-  },
   "sessions/c06s01": {
    "chapter": "c06",
    "order": 10,
@@ -369,10 +436,6 @@
    "files": [],
    "links": [],
    "notes": ""
-  },
-  "chapters/c07": {
-   "n": 7,
-   "title": "Aphérèses thérapeutiques"
   },
   "sessions/c07s01": {
    "chapter": "c07",
@@ -396,10 +459,6 @@
    "links": [],
    "notes": ""
   },
-  "chapters/c08": {
-   "n": 8,
-   "title": "Greffe de MO / banques de tissus"
-  },
   "sessions/c08s01": {
    "chapter": "c08",
    "order": 10,
@@ -421,10 +480,6 @@
    "files": [],
    "links": [],
    "notes": ""
-  },
-  "chapters/c09": {
-   "n": 9,
-   "title": "Effets indésirables transfusionnels"
   },
   "sessions/c09s01": {
    "chapter": "c09",
@@ -453,7 +508,7 @@
    "order": 30,
    "title": "TACO / TRALI",
    "date": "2027-04-21",
-   "min": 90,
+   "min": 45,
    "teacher": "Dr Rekik T",
    "files": [],
    "links": [],
@@ -464,15 +519,11 @@
    "order": 40,
    "title": "Autres effets indésirables transfusionnels (PPT / GVH / microchimérisme / surcharge martiale...)",
    "date": "2027-04-21",
-   "min": 90,
+   "min": 45,
    "teacher": "Dr Rekik T",
    "files": [],
    "links": [],
    "notes": ""
-  },
-  "chapters/c10": {
-   "n": 10,
-   "title": "Hémovigilance"
   },
   "sessions/c10s01": {
    "chapter": "c10",
@@ -496,10 +547,6 @@
    "links": [],
    "notes": ""
   },
-  "chapters/c11": {
-   "n": 11,
-   "title": "Traçabilité et systèmes d'information en transfusion sanguine"
-  },
   "sessions/c11s01": {
    "chapter": "c11",
    "order": 10,
@@ -510,10 +557,6 @@
    "files": [],
    "links": [],
    "notes": ""
-  },
-  "chapters/c12": {
-   "n": 12,
-   "title": "Management de la qualité en transfusion sanguine"
   },
   "sessions/c12s01": {
    "chapter": "c12",
