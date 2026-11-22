@@ -1,0 +1,541 @@
+{
+ "docs": {
+  "meta/main": {
+   "title": "CEC Hémobiologie et Transfusion Sanguine",
+   "year": "2026-2027",
+   "subtitle": "En moyenne un mercredi tous les 15 jours"
+  },
+  "chapters/c01": {
+   "n": 1,
+   "title": "Aspects réglementaires en transfusion sanguine et guides de bonnes pratiques"
+  },
+  "sessions/c01s01": {
+   "chapter": "c01",
+   "order": 10,
+   "title": "Introduction / Réglementation tunisienne en transfusion sanguine",
+   "date": "2026-11-25",
+   "min": 120,
+   "teacher": "Dr Gargouri J",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c02": {
+   "n": 2,
+   "title": "Le don de sang"
+  },
+  "sessions/c02s01": {
+   "chapter": "c02",
+   "order": 10,
+   "title": "Sélection des donneurs de sang et contre-indications au don de sang",
+   "date": "2026-11-25",
+   "min": 90,
+   "teacher": "Dr Mezhani Narjes",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c02s02": {
+   "chapter": "c02",
+   "order": 20,
+   "title": "Le don de sang total (équipement, phlébotomie, don proprement dit et post-don)",
+   "date": "2026-11-25",
+   "min": 60,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c02s03": {
+   "chapter": "c02",
+   "order": 30,
+   "title": "Le don par aphérèse (particularités sélection des donneurs, équipements, types)",
+   "date": "2026-11-25",
+   "min": 60,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c02s04": {
+   "chapter": "c02",
+   "order": 40,
+   "title": "Le don autologue",
+   "date": "2026-11-25",
+   "min": 30,
+   "teacher": "Dr Louati N",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c02s05": {
+   "chapter": "c02",
+   "order": 50,
+   "title": "Les effets indésirables donneur (type, prévention, prise en charge)",
+   "date": "2026-11-25",
+   "min": 30,
+   "teacher": "Dr Louati N",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c03": {
+   "n": 3,
+   "title": "Produits sanguins : préparation, conservation et transport"
+  },
+  "sessions/c03s01": {
+   "chapter": "c03",
+   "order": 10,
+   "title": "Les produits sanguins labiles / normes et exigences qualité",
+   "date": "2026-12-09",
+   "min": 90,
+   "teacher": "Dr Rekik T",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c03s02": {
+   "chapter": "c03",
+   "order": 20,
+   "title": "Les produits sanguins stables : préparation, produits et indications. Normes et exigences qualité des PSL",
+   "date": "2026-12-09",
+   "min": 60,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c03s03": {
+   "chapter": "c03",
+   "order": 30,
+   "title": "Bonnes pratiques de conservation et de transport des PSL / Procédures - réglementations",
+   "date": "",
+   "min": 60,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c04": {
+   "n": 4,
+   "title": "Qualification biologique du don"
+  },
+  "sessions/c04s01": {
+   "chapter": "c04",
+   "order": 10,
+   "title": "IH érythrocytaire (GS)",
+   "date": "2026-12-09",
+   "min": 150,
+   "teacher": "Dr Ben Amor I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c04s02": {
+   "chapter": "c04",
+   "order": 20,
+   "title": "Réactifs en IH et contrôle qualité des réactifs en IH",
+   "date": "2027-01-06",
+   "min": 60,
+   "teacher": "Dr Ben Amor I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c04s03": {
+   "chapter": "c04",
+   "order": 30,
+   "title": "Analyses en IH (génotypage érythrocytaire, RAI...)",
+   "date": "2027-01-06",
+   "min": 120,
+   "teacher": "Dr Ben Amor I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c04s04": {
+   "chapter": "c04",
+   "order": 40,
+   "title": "Les agents infectieux transmissibles par le sang (virus, bactérie et parasites)",
+   "date": "2027-01-06",
+   "min": 120,
+   "teacher": "Dr Rekik T",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c04s05": {
+   "chapter": "c04",
+   "order": 50,
+   "title": "Tests de dépistage des agents infectieux et contrôles de qualité des réactifs",
+   "date": "2027-01-06",
+   "min": 60,
+   "teacher": "Dr Rekik T",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c04s06": {
+   "chapter": "c04",
+   "order": 60,
+   "title": "IH leucocytaire et plaquettaire / HLA",
+   "date": "2027-01-06",
+   "min": 60,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c05": {
+   "n": 5,
+   "title": "Transfusion clinique"
+  },
+  "sessions/c05s01": {
+   "chapter": "c05",
+   "order": 10,
+   "title": "Indications transfusionnelles des PSL (guidelines)",
+   "date": "2027-01-20",
+   "min": 120,
+   "teacher": "Dr Rekik T",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s02": {
+   "chapter": "c05",
+   "order": 20,
+   "title": "Sécurité transfusionnelle (épreuve de compatibilité au labo / EULM)",
+   "date": "2027-01-20",
+   "min": 120,
+   "teacher": "Dr Louati N",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s03": {
+   "chapter": "c05",
+   "order": 30,
+   "title": "Transfusion sanguine dans les LA",
+   "date": "",
+   "min": 120,
+   "teacher": "Dr Frikha I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s04": {
+   "chapter": "c05",
+   "order": 40,
+   "title": "Transfusion sanguine dans les hémoglobinopathies",
+   "date": "",
+   "min": 120,
+   "teacher": "Dr Maaloul I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s05": {
+   "chapter": "c05",
+   "order": 50,
+   "title": "AHAI / Transfusion dans l'AHAI",
+   "date": "2027-02-03",
+   "min": 120,
+   "teacher": "Dr Ben Amor I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s06": {
+   "chapter": "c05",
+   "order": 60,
+   "title": "Transfusion chez le sujet âgé / transfusion en soins palliatifs",
+   "date": "2027-02-03",
+   "min": 90,
+   "teacher": "Dr Fakhfakh Y",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s07": {
+   "chapter": "c05",
+   "order": 70,
+   "title": "La maladie hémolytique du nouveau-né / La thrombopénie néonatale",
+   "date": "2027-02-03",
+   "min": 120,
+   "teacher": "Dr Kolsi Nédia",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s08": {
+   "chapter": "c05",
+   "order": 80,
+   "title": "Transfusion néo-natale et pédiatrique",
+   "date": "2027-02-03",
+   "min": 120,
+   "teacher": "Dr Maaloul I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s09": {
+   "chapter": "c05",
+   "order": 90,
+   "title": "Transfusion massive",
+   "date": "2027-03-17",
+   "min": 120,
+   "teacher": "Dr Elleuch S / équipe A/R",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s10": {
+   "chapter": "c05",
+   "order": 100,
+   "title": "Thrombopénies immunes",
+   "date": "2027-03-17",
+   "min": 120,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s11": {
+   "chapter": "c05",
+   "order": 110,
+   "title": "Hémophilie / maladie de Willebrand",
+   "date": "2027-03-17",
+   "min": 120,
+   "teacher": "Dr Fakhfakh Y",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s12": {
+   "chapter": "c05",
+   "order": 120,
+   "title": "Transfusion dans les situations hémorragiques acquises (CIVD, atteinte hépatique, insuffisance rénale...)",
+   "date": "2027-03-17",
+   "min": 60,
+   "teacher": "Dr Elleuch S / équipe A/R",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s13": {
+   "chapter": "c05",
+   "order": 130,
+   "title": "Techniques d'épargne de sang",
+   "date": "2027-03-17",
+   "min": 60,
+   "teacher": "Dr Elleuch S / équipe A/R",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c05s14": {
+   "chapter": "c05",
+   "order": 140,
+   "title": "Patient Blood Management (PBM)",
+   "date": "2027-04-07",
+   "min": 120,
+   "teacher": "Dr Elleuch S / équipe A/R",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c06": {
+   "n": 6,
+   "title": "Gestion de stock"
+  },
+  "sessions/c06s01": {
+   "chapter": "c06",
+   "order": 10,
+   "title": "Gestion de stock",
+   "date": "2027-04-07",
+   "min": 120,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c06s02": {
+   "chapter": "c06",
+   "order": 20,
+   "title": "Conseil transfusionnel / rationalisation de l'utilisation des PSL",
+   "date": "2027-04-07",
+   "min": 120,
+   "teacher": "Dr Rekik T",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c07": {
+   "n": 7,
+   "title": "Aphérèses thérapeutiques"
+  },
+  "sessions/c07s01": {
+   "chapter": "c07",
+   "order": 10,
+   "title": "Les échanges thérapeutiques : principe et séparateurs de cellules",
+   "date": "2027-04-07",
+   "min": 120,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c07s02": {
+   "chapter": "c07",
+   "order": 20,
+   "title": "Les échanges plasmatiques / Les échanges érythrocytaires",
+   "date": "2027-04-07",
+   "min": 120,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c08": {
+   "n": 8,
+   "title": "Greffe de MO / banques de tissus"
+  },
+  "sessions/c08s01": {
+   "chapter": "c08",
+   "order": 10,
+   "title": "Greffe de MO (clinique et biologique)",
+   "date": "2027-04-21",
+   "min": 180,
+   "teacher": "Dr Rekik T / Dr Frikha I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c08s02": {
+   "chapter": "c08",
+   "order": 20,
+   "title": "Banques de tissus",
+   "date": "2027-04-21",
+   "min": 60,
+   "teacher": "Dr Gargouri J",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c09": {
+   "n": 9,
+   "title": "Effets indésirables transfusionnels"
+  },
+  "sessions/c09s01": {
+   "chapter": "c09",
+   "order": 10,
+   "title": "Les états de chocs transfusionnels",
+   "date": "2027-04-21",
+   "min": 120,
+   "teacher": "Dr Louati N",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c09s02": {
+   "chapter": "c09",
+   "order": 20,
+   "title": "Les réactions fébriles non hémolytiques / réactions hémolytiques retardées",
+   "date": "2027-04-21",
+   "min": 120,
+   "teacher": "Dr Louati N",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c09s03": {
+   "chapter": "c09",
+   "order": 30,
+   "title": "TACO / TRALI",
+   "date": "2027-04-21",
+   "min": 90,
+   "teacher": "Dr Rekik T",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c09s04": {
+   "chapter": "c09",
+   "order": 40,
+   "title": "Autres effets indésirables transfusionnels (PPT / GVH / microchimérisme / surcharge martiale...)",
+   "date": "2027-04-21",
+   "min": 90,
+   "teacher": "Dr Rekik T",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c10": {
+   "n": 10,
+   "title": "Hémovigilance"
+  },
+  "sessions/c10s01": {
+   "chapter": "c10",
+   "order": 10,
+   "title": "Hémovigilance en Tunisie",
+   "date": "2027-05-05",
+   "min": 120,
+   "teacher": "Dr Gargouri J",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c10s02": {
+   "chapter": "c10",
+   "order": 20,
+   "title": "Hémovigilance dans le monde",
+   "date": "2027-05-05",
+   "min": 30,
+   "teacher": "Dr Rekik T",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c11": {
+   "n": 11,
+   "title": "Traçabilité et systèmes d'information en transfusion sanguine"
+  },
+  "sessions/c11s01": {
+   "chapter": "c11",
+   "order": 10,
+   "title": "Traçabilité et systèmes d'information en transfusion sanguine",
+   "date": "2027-05-05",
+   "min": 120,
+   "teacher": "Dr Menif H",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "chapters/c12": {
+   "n": 12,
+   "title": "Management de la qualité en transfusion sanguine"
+  },
+  "sessions/c12s01": {
+   "chapter": "c12",
+   "order": 10,
+   "title": "Bonnes pratiques transfusionnelles / Gestion des risques",
+   "date": "2027-05-07",
+   "min": 120,
+   "teacher": "Dr Ben Amor I",
+   "files": [],
+   "links": [],
+   "notes": ""
+  },
+  "sessions/c12s02": {
+   "chapter": "c12",
+   "order": 20,
+   "title": "Certification et accréditation des établissements transfusionnels",
+   "date": "2027-05-07",
+   "min": 120,
+   "teacher": "Dr Gargouri J",
+   "files": [],
+   "links": [],
+   "notes": ""
+  }
+ }
+}
