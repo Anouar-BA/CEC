@@ -169,7 +169,14 @@
    "date": "2026-12-09",
    "min": 90,
    "teacher": "Dr Rekik T",
-   "files": [],
+   "files": [
+    {
+     "id": "9lihqq-PSL_2024.pptx",
+     "name": "PSL 2024.pptx",
+     "size": 15677011,
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    }
+   ],
    "links": [],
    "notes": ""
   },
